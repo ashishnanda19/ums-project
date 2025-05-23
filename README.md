@@ -47,11 +47,11 @@ bash
     - Update the database configuration in config.php with your MySQL credentials:
     
 
-```php
-$sName   = "localhost";
-$uName   = "root";
-$pass    = "";
-$db_name = "ums";
+**php**
+        $sName   = "localhost";
+        $uName   = "root";
+        $pass    = "";
+        $db_name = "ums";
 
 4. **Start the Web Server**
     - Ensure your web server is running and place the project files in the server's root directory (e.g., htdocs for XAMPP).
