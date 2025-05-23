@@ -47,10 +47,10 @@ bash
     - Update the database configuration in config.php with your MySQL credentials:
     
 php
-    $sName = "localhost";
-    $uName = "root";
-    $pass  = "";
-    $db_name = "ums";
+    - $sName = "localhost";
+    - $uName = "root";
+    - $pass  = "";
+    - $db_name = "ums";
 
 
 4. **Start the Web Server**
