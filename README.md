@@ -57,7 +57,7 @@ php
     - Ensure your web server is running and place the project files in the server's root directory (e.g., htdocs for XAMPP).
 
 5. **Access the Application**
-    - Open your web browser and navigate to http://localhost/ums.
+    - Open your web browser and navigate to http://localhost/ums-project.
 
 ## Login Details
 
