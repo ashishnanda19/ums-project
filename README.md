@@ -36,8 +36,8 @@ This project is a University Management System with three user panels: Admin, Fa
 1. **Clone the repository**
     
 bash
-    git clone https://github.com/ashishnanda19/ums-project.git
-    cd ums-project.git
+   - git clone https://github.com/ashishnanda19/ums-project.git
+   - cd ums-project.git
 
 2. **Import the Database**
     - Create a database named ums.
